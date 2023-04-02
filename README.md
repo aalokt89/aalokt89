@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-My name is Aalok Trivedi, and I'm a UX/UI designer with an interest in aws and cloud technologies. I'm currently learning AWS, Python, and continuing my journey to become a cloud DevOps engineer.
+My name is Aalok Trivedi, and I'm a UX/UI designer with an interest in AWS and cloud technologies. I'm currently learning AWS, Python, Kubernetes/Docker, and Terraform, and continuing my journey to become a cloud DevOps engineer.
 
 Find out more about me & feel free to connect with me here:
 
@@ -22,8 +22,8 @@ Find out more about me & feel free to connect with me here:
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-<!--![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)-->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
