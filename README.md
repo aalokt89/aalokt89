@@ -9,7 +9,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aalok%20Trivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/aalok-trivedi/)](https://https://www.linkedin.com/in/aalok-trivedi/)
 [![Medium Badge](https://img.shields.io/badge/Aalok%20Trivedi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://https://medium.com/@aaloktrivedi)](https://https://medium.com/@aaloktrivedi)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com) -->
+[![Gmail Badge](https://img.shields.io/badge/-aaloktrivedi89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaloktrivedi89@gmail.com)](mailto:Broadus@Levelupintech.com)
 
 ## ⚡ Technologies
 
